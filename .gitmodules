@@ -4,3 +4,6 @@
 [submodule "toy_app"]
 	path = toy_app
 	url = https://github.com/iRodriguez-icired/toy_app.git
+[submodule "sample_app"]
+	path = sample_app
+	url = https://github.com/iRodriguez-icired/sample_app.git
